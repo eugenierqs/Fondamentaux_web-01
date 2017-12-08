@@ -1,6 +1,10 @@
-Session et cookie
-KAPALA Angéline
-https://github.com/Angelinekpl
+Sujet choisi :
+  Session et cookie
 
-ROQUES Eugénie
-https://github.com/eugenierqs
+Contributeurs :
+  
+  KAPALA Angéline
+    https://github.com/Angelinekpl
+
+  ROQUES Eugénie
+    https://github.com/eugenierqs
